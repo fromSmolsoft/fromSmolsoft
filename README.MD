@@ -2,7 +2,7 @@
 
 **`Digital nomad (Developer/ PC entusiastic)`**
 
-I'm enthusiastic indie developer, with passion for coding, especially for Java language. I enjoy learning new things and logic.  
+Hello there! I'm a passionate indie developer with a love for coding and a focus on Java language, including Android development. As a digital nomad, I enjoy exploring new places and immersing myself in different cultures while continuing to develop my skills and create innovative solutions.
 
 ---
 
@@ -26,9 +26,31 @@ I'm enthusiastic indie developer, with passion for coding, especially for Java l
 
 ###
 
-<details>
- <summary><h3>  My Journey</h3></summary>
+<details> <summary><h3>  My Journey</h3></summary>
+Coding quickly became a passion for me after I realized that it was what I truly loved to do. It became an obsession, and I eagerly jumped into the world of coding, starting with Android development. It was during this journey that I discovered my fondness for Java. There's just something about this programming language that clicks with me, and I found myself drawn to its syntax and capabilities. It has been an exciting and fulfilling experience exploring the depths of Java and honing my skills in Android development. I am constantly motivated to learn and improve, as coding has become an integral part of my life's journey.
+</details>
 
-   I jumped into coding coding after i realized that's what i'd love to do. It became sort of obsesion. I've started with Adnroid development wehre i relized that i like Java. Something in that programming language just ticks in for me.  
+ <details><summary><h3>  About Me</h3></summary> 
+I have expertise in Java and a solid understanding of logic and problem-solving. I am also proficient in Android development, including building mobile applications using Java and Android Studio. I am constantly seeking new challenges and opportunities to expand my knowledge and capabilities. My curiosity and passion for coding drive me to continuously learn and stay up-to-date with the latest developments in the tech industry. </details>
 
-[blog]: https://smolsoft.blogspot.com
+<details> <summary><h3>  Skills</h3></summary>
+<br><b>Java:</b>
+<br> I have extensive experience in Java programming, including object-oriented programming, data structures, and algorithms. I've used popular Java frameworks such as Spring and Hibernate.  </br>
+<br><b>Android Development:</b>
+<br> I have hands-on experience in developing Android applications using Java and Android Studio, including UI/UX design, API integration, and app deployment to the Google Play Store.  </br>
+<br><b>Version Control:</b>
+<br> I am skilled in using Git, a widely used version control system, to manage and collaborate on codebase efficiently. </br>
+<br><b>Problem-Solving:</b>
+<br> I have a strong analytical mindset and enjoy solving complex problems through critical thinking and logical reasoning.  </br>
+<br><b>Continuous Learning:</b>
+<br> I am always eager to learn new technologies and tools, and I proactively stay updated with the latest advancements in the field of software development.  </br> 
+</details>
+
+<details><summary><h3>  Contact</h3></summary>
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me via email or through my GitHub repository. I am always open to new opportunities and look forward to connecting with fellow developers and technology enthusiasts.
+
+Let's create innovative solutions together!
+[blog]: https://smolsoft.blogspot.com 
+</details>
+<br>
+<a href="https://www.buymeacoffee.com/smolgeek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
