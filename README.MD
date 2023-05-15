@@ -34,11 +34,17 @@ Coding quickly became a passion for me after I realized that it was what I truly
 I have expertise in Java and a solid understanding of logic and problem-solving. I am also proficient in Android development, including building mobile applications using Java and Android Studio. I am constantly seeking new challenges and opportunities to expand my knowledge and capabilities. My curiosity and passion for coding drive me to continuously learn and stay up-to-date with the latest developments in the tech industry. </details>
 
 <details> <summary><h3>  Skills</h3></summary>
-**Java:** I have extensive experience in Java programming, including object-oriented programming, data structures, and algorithms. I've used popular Java frameworks such as Spring and Hibernate.  
-**Android Development:** I have hands-on experience in developing Android applications using Java and Android Studio, including UI/UX design, API integration, and app deployment to the Google Play Store.  
-**Version Control:** I am skilled in using Git, a widely used version control system, to manage and collaborate on codebase efficiently.  
-**Problem-Solving:** I have a strong analytical mindset and enjoy solving complex problems through critical thinking and logical reasoning.  
-**Continuous Learning:** I am always eager to learn new technologies and tools, and I proactively stay updated with the latest advancements in the field of software development.  </details>
+<br><b>Java:</b>
+<br> I have extensive experience in Java programming, including object-oriented programming, data structures, and algorithms. I've used popular Java frameworks such as Spring and Hibernate.  </br>
+<br><b>Android Development:</b>
+<br> I have hands-on experience in developing Android applications using Java and Android Studio, including UI/UX design, API integration, and app deployment to the Google Play Store.  </br>
+<br><b>Version Control:</b>
+<br> I am skilled in using Git, a widely used version control system, to manage and collaborate on codebase efficiently. </br>
+<br><b>Problem-Solving:</b>
+<br> I have a strong analytical mindset and enjoy solving complex problems through critical thinking and logical reasoning.  </br>
+<br><b>Continuous Learning:</b>
+<br> I am always eager to learn new technologies and tools, and I proactively stay updated with the latest advancements in the field of software development.  </br> 
+</details>
 
 <details><summary><h3>  Contact</h3></summary>
 If you're interested in collaborating on a project or have any questions, feel free to reach out to me via email or through my GitHub repository. I am always open to new opportunities and look forward to connecting with fellow developers and technology enthusiasts.
